@@ -1,0 +1,1 @@
+# Python-Django-Static-and-Media-Setting
